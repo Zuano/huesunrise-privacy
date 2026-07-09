@@ -1,0 +1,37 @@
+# 90 Minuten Schlaf – Sonnenaufgangwecker
+
+> App für iPhone und Android, die den Wecker nach 90-Minuten-Schlafzyklen ausrichtet – mit
+> optionalem Philips-Hue-Sonnenaufgang und einem echten System-Wecker. Anbieter: LinguaFlow e.U.
+> (Österreich). / An iPhone and Android app that times the alarm to 90-minute sleep cycles,
+> with an optional Philips Hue sunrise and a real system alarm.
+
+## Was die App macht / What the app does
+- Berechnet Bettgeh- und Aufwachzeiten für 3 bis 7 komplette 90-Minuten-Schlafzyklen.
+- Weckt am Ende eines Schlafzyklus statt zu einer zufälligen Uhrzeit – für einen wacheren Start.
+- Optionaler Philips-Hue-Sonnenaufgang: Das Licht wird vor der Weckzeit langsam heller und läuft
+  als Automation direkt auf der Hue Bridge – auch wenn das Handy nachts ausgeschaltet ist.
+- Echter System-Wecker, der auch bei Stummschaltung und im Fokus-Modus klingelt.
+- Bettgeh-Erinnerungen als Mitteilung.
+- Morgendliche Schlafauswertung über Apple Health bzw. Health Connect (nur lesend, auf dem Gerät).
+- Wecker und Erinnerungen funktionieren auch ohne Philips Hue.
+
+## Preise / Pricing
+- Jahresabo: 23,99 €/Jahr, inkl. 30 Tage kostenloser Testphase.
+- Monatsabo: 3,99 €/Monat.
+- Automatische Verlängerung, jederzeit über App Store bzw. Google Play kündbar. Preise können je Land abweichen.
+
+## Datenschutz / Privacy
+- Datensparsam gebaut: Weckzeiten, Schlafpläne und Hue-Zugang bleiben lokal auf dem Gerät.
+- Nur zwei datenschutzfreundliche Dienste: TelemetryDeck (anonyme Statistik) und RevenueCat (Kaufabwicklung).
+- Kein Werbe-Tracking.
+
+## Seiten / Pages
+- Startseite (Deutsch): https://90-minute-sleep-cycle.app/
+- Home (English): https://90-minute-sleep-cycle.app/en/
+- Support & FAQ (Deutsch): https://90-minute-sleep-cycle.app/support.html
+- Support & FAQ (English): https://90-minute-sleep-cycle.app/en/support.html
+- Datenschutz / Privacy: https://90-minute-sleep-cycle.app/datenschutz.html
+- Nutzungsbedingungen / Terms: https://90-minute-sleep-cycle.app/nutzungsbedingungen.html
+
+## Kontakt / Contact
+- E-Mail: 90minuten.schlaf@gmail.com
