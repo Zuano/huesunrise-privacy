@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://90-minute-sleep-cycle.app/sitemap.xml

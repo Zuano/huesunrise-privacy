@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="90 Minuten Schlaf">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1b2233"/>
+      <stop offset="1" stop-color="#2c1c10"/>
+    </linearGradient>
+    <linearGradient id="sun" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffd987"/>
+      <stop offset="1" stop-color="#ff8c34"/>
+    </linearGradient>
+    <clipPath id="below"><rect x="0" y="0" width="64" height="41"/></clipPath>
+  </defs>
+  <rect width="64" height="64" rx="14" fill="url(#sky)"/>
+  <g stroke="#ffb454" stroke-width="2.6" stroke-linecap="round" opacity="0.9">
+    <line x1="32" y1="13" x2="32" y2="7"/>
+    <line x1="17" y1="19" x2="13" y2="15"/>
+    <line x1="47" y1="19" x2="51" y2="15"/>
+    <line x1="10" y1="33" x2="5" y2="33"/>
+    <line x1="54" y1="33" x2="59" y2="33"/>
+  </g>
+  <circle cx="32" cy="37" r="13" fill="url(#sun)" clip-path="url(#below)"/>
+  <rect x="7" y="40" width="50" height="3.4" rx="1.7" fill="#ffb454"/>
+  <rect x="7" y="47" width="50" height="3" rx="1.5" fill="#ffb454" opacity="0.45"/>
+</svg>

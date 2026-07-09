@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <!-- Startseite / Home -->
+  <url>
+    <loc>https://90-minute-sleep-cycle.app/</loc>
+    <lastmod>2026-07-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://90-minute-sleep-cycle.app/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://90-minute-sleep-cycle.app/en/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://90-minute-sleep-cycle.app/en/"/>
+  </url>
+  <url>
+    <loc>https://90-minute-sleep-cycle.app/en/</loc>
+    <lastmod>2026-07-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://90-minute-sleep-cycle.app/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://90-minute-sleep-cycle.app/en/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://90-minute-sleep-cycle.app/en/"/>
+  </url>
+
+  <!-- Support -->
+  <url>
+    <loc>https://90-minute-sleep-cycle.app/support.html</loc>
+    <lastmod>2026-07-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://90-minute-sleep-cycle.app/support.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://90-minute-sleep-cycle.app/en/support.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://90-minute-sleep-cycle.app/en/support.html"/>
+  </url>
+  <url>
+    <loc>https://90-minute-sleep-cycle.app/en/support.html</loc>
+    <lastmod>2026-07-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://90-minute-sleep-cycle.app/support.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://90-minute-sleep-cycle.app/en/support.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://90-minute-sleep-cycle.app/en/support.html"/>
+  </url>
+
+  <!-- Datenschutz / Privacy -->
+  <url>
+    <loc>https://90-minute-sleep-cycle.app/datenschutz.html</loc>
+    <lastmod>2026-07-09</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://90-minute-sleep-cycle.app/datenschutz.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://90-minute-sleep-cycle.app/en/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://90-minute-sleep-cycle.app/en/privacy.html"/>
+  </url>
+  <url>
+    <loc>https://90-minute-sleep-cycle.app/en/privacy.html</loc>
+    <lastmod>2026-07-09</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://90-minute-sleep-cycle.app/datenschutz.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://90-minute-sleep-cycle.app/en/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://90-minute-sleep-cycle.app/en/privacy.html"/>
+  </url>
+
+  <!-- Nutzungsbedingungen / Terms -->
+  <url>
+    <loc>https://90-minute-sleep-cycle.app/nutzungsbedingungen.html</loc>
+    <lastmod>2026-07-09</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://90-minute-sleep-cycle.app/nutzungsbedingungen.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://90-minute-sleep-cycle.app/en/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://90-minute-sleep-cycle.app/en/terms.html"/>
+  </url>
+  <url>
+    <loc>https://90-minute-sleep-cycle.app/en/terms.html</loc>
+    <lastmod>2026-07-09</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://90-minute-sleep-cycle.app/nutzungsbedingungen.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://90-minute-sleep-cycle.app/en/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://90-minute-sleep-cycle.app/en/terms.html"/>
+  </url>
+
+</urlset>
